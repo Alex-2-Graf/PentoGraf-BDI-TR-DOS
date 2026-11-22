@@ -18,11 +18,11 @@
   
 ---
   
-## Варианты платы по ФАПЧ (PLL):  
+# Варианты платы по ФАПЧ (PLL):  
   
 ---
   
-На базе чипа FDC9216B (стабильный цифровой сепаратор без настройки)  
+## На базе чипа FDC9216B (стабильный цифровой сепаратор без настройки)  
   
 [iBOM](Export/BDI%20PentoGraf%20(FDC9216B).html) [Схема](Export/BDI%20PentoGraf%20(FDC9216B).pdf) [Gerber](Gerber/BDI%20PentoGraf%20(FDC9216B)_Gerber.zip)  
   
@@ -34,7 +34,7 @@
   
 ---
   
-Классический вариант на ППЗУ КР556РТ4А (82S129) для работы с «тяжелыми» дискетами.  
+## Классический вариант на ППЗУ КР556РТ4А (82S129) для работы с «тяжелыми» дискетами.  
   
 [iBOM](Export/BDI%20PentoGraf%20(PT4A).html) [Схема](Export/BDI%20PentoGraf%20(PT4A).pdf) [Gerber](Gerber/BDI%20PentoGraf%20(PT4A)_Gerber.zip) [RT4](ROM/556RT4.bin)  
   
